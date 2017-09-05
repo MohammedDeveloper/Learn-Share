@@ -4,8 +4,8 @@
 ## .Net:
 
 What?
-	http://www.c-sharpcorner.com/uploadfile/09f663/net-architecture-and-net-framework-basics/
-	http://www.c-sharpcorner.com/uploadfile/puranindia/net-framework-and-architecture/
+- http://www.c-sharpcorner.com/uploadfile/09f663/net-architecture-and-net-framework-basics/
+- http://www.c-sharpcorner.com/uploadfile/puranindia/net-framework-and-architecture/
 
 .Versions? - Specific changes
 
