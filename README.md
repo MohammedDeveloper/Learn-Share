@@ -8,6 +8,7 @@ What?
 - http://www.c-sharpcorner.com/uploadfile/puranindia/net-framework-and-architecture/
 
 .Versions? - Specific changes
+https://docs.microsoft.com/en-us/dotnet/framework/migration-guide/versions-and-dependencies
 
 .Net Libraries - How it works?
 
@@ -30,6 +31,12 @@ OOPS & Syntax
 Newer features
 
 Whats next?
+
+ref vs out
+
+static
+
+var, const, readonly diff
 
 ## Web Services:
 
