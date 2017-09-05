@@ -53,9 +53,19 @@ SignalR
 
 ## Methodologies:
 
+Delegates & its Types
+
+DI
+
+IoC
+
 Web Forms ## Version, Lifecycle, DI, Basic concepts - Session, Cookie etc..., VIEW ENGINE
 
 MVC ## Arch., DI, MVC - Descrip, Lifecycle, Latest versions & features, usage, Results in Controller, VIEW 
+
+API vs MVC
+
+Action vs Partial
 
 ENGINE
 
@@ -72,6 +82,8 @@ SQL in ASP.NET web.config - Conn. string
 SQL Queries: Proc, Fn, Tri, Ind, Joins etc...
 
 Batch Job: Scheduler
+
+SP vs Fns
 
 ## EF:
 
@@ -92,6 +104,8 @@ DBContext vs ObjectContext
 .Net version with EF version
 
 Latest features
+
+SPs, Unique, Index
 
 ## SSIS:
 
