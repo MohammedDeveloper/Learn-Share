@@ -1,5 +1,4 @@
-# Preps
-Preparation for .Net Full Stack Developer Interview
+# Preps - .Net Full Stack Developer
 
 
 ## .Net:
