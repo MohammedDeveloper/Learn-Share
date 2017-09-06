@@ -109,15 +109,16 @@ VIEW ENGINE ## ???
 
 StructureMap, Ninja, Castle, Enterprise Library
 
-## SQL:
+## SQL: SQL Queries: Proc, Fn, Tri, Ind, Joins etc...
+- https://www.w3schools.com/sql/default.asp
 
 SQL in ASP.NET web.config - Conn. string
-
-SQL Queries: Proc, Fn, Tri, Ind, Joins etc...
+- https://msdn.microsoft.com/en-us/library/ms228094(v=vs.85).aspx
 
 Batch Job: Scheduler
 
 SP vs Fns
+- https://stackoverflow.com/questions/1179758/function-vs-stored-procedure-in-sql-server
 
 ## EF:
 
