@@ -15,3 +15,7 @@
 ## .Net programming
 
 - https://github.com/MohammedDeveloper/Preps/tree/master/DotNet
+
+## GitHub Setup
+
+- https://github.com/MohammedDeveloper/GIT-Setup/blob/master/README.md
