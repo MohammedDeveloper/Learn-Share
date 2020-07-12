@@ -18,4 +18,4 @@
 
 ## GitHub Setup
 
-- https://github.com/MohammedDeveloper/GIT-Setup/blob/master/README.md
+- https://github.com/MohammedDeveloper/Preps/tree/master/GitHub
