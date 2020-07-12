@@ -43,3 +43,19 @@
 ## LINQ
 
 - https://github.com/MohammedDeveloper/Preps/tree/master/LINQ
+
+## .Net Core
+
+- https://github.com/MohammedDeveloper/Preps/tree/master/DotNet/NetCore
+
+## SQL and Entity Framework
+
+- https://github.com/MohammedDeveloper/Preps/tree/master/DotNet/EF
+
+## JavaScript
+
+- https://github.com/MohammedDeveloper/Preps/tree/master/JS
+
+## Angular
+
+- https://github.com/MohammedDeveloper/Preps/tree/master/JS/Angular

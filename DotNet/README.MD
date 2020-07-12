@@ -118,13 +118,16 @@
 - Logging:
 	- https://stackify.com/log4net-guide-dotnet-logging/ | https://www.c-sharpcorner.com/UploadFile/858292/exception-logging-in-mvc-using-elmah/
 	- https://www.c-sharpcorner.com/article/introduction-to-elmah-in-mvc/
-	- New Relic - https://github.com/GEP-GitHub/GEP.Cumulus.Logging-Nuget/blob/5f3f9c6e38256b176f3e92788e24daf607a879a6/GEP.Cumulus.Logging/AzureTableAppenderBuffer.cs
+	- New Relic - NewRelicAgent.Api
 	
 - Caching
     - OutputCache
 	- https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions-1/controllers-and-routing/improving-performance-with-output-caching-cs
     - StackExchange.Redis
     - HSTS - setting response headers to prevent iframe attacks
+
+- Unit/Integration Testing
+    - Moq. Act and Assert
 
 
 
