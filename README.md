@@ -16,6 +16,10 @@
 
 - https://github.com/MohammedDeveloper/Preps/tree/master/DotNet
 
-## GitHub Setup
+## GitHub
 
 - https://github.com/MohammedDeveloper/Preps/tree/master/GitHub
+
+## Misc Topics
+
+- https://github.com/MohammedDeveloper/Preps/tree/master/Misc
