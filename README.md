@@ -23,3 +23,23 @@
 ## Misc Topics
 
 - https://github.com/MohammedDeveloper/Preps/tree/master/Misc
+
+## ASP.NET Web Forms
+
+- https://github.com/MohammedDeveloper/Preps/tree/master/DotNet/WebForms
+
+## ASP.NET MVC
+
+- https://github.com/MohammedDeveloper/Preps/tree/master/DotNet/MVC
+
+## ASP.NET Web API
+
+- https://github.com/MohammedDeveloper/Preps/tree/master/DotNet/WebAPI
+
+## Architectural Patterns
+
+- https://github.com/MohammedDeveloper/Preps/tree/master/ArchiecturalPatterns
+
+## LINQ
+
+- https://github.com/MohammedDeveloper/Preps/tree/master/LINQ
