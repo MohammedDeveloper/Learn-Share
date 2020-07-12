@@ -2,16 +2,16 @@
 
 ## C programming
 
-- TBU
+- https://github.com/MohammedDeveloper/Preps/tree/master/1-C
 
 ## OOPS Concepts
 
-- TBU
+- https://github.com/MohammedDeveloper/Preps/tree/master/3-OOPS
 
 ## C++ programming
 
-- TBU
+- https://github.com/MohammedDeveloper/Preps/tree/master/2-C%2B%2B 
 
 ## .Net programming
 
-- TBU
+- https://github.com/MohammedDeveloper/Preps/tree/master/DotNet
