@@ -1,5 +1,5 @@
 # Misc - Learning-Links
-    - Learning links across frameworks
+Learning links across frameworks
 
 ## "export 'InjectionToken' was not found in '@angular/core'
 https://github.com/brtnshrdr/angular2-hotkeys/issues/38
